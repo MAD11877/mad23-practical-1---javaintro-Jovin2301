@@ -1,3 +1,5 @@
+import java.util.stream.Stream;
+
 public class Question1
 {
   public static void main(String[] args)
@@ -7,5 +9,6 @@ public class Question1
      * 
      * Hint: System.out.println(...)
      */
+    System.out.println("Hello world!");
   }
 }
