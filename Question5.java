@@ -32,7 +32,7 @@ public class Question5
     //int maxcount = 0;
     //int mode = numList.get(0);
 
-    System.out.print("> ");
+    //System.out.print("> ");
     int num = in.nextInt();
 
     for (int i = 0; i < num; i ++){
@@ -59,6 +59,7 @@ public class Question5
       }
     }
 
-    System.out.println("Mode from the integer: " + mode);
+    //System.out.print("Mode from the integer: ");
+    System.out.println(mode);
   }
 }
