@@ -19,6 +19,6 @@ public class Question2
 
     double BMI = weight / (height * height);
     System.out.print("BMI of the user: ");
-    System.out.println(BMI);
+    System.out.print(BMI);
   }
 }
