@@ -36,7 +36,7 @@ public class Question5
     int num = in.nextInt();
 
     for (int i = 0; i < num; i ++){
-      System.out.print("> ");
+      //System.out.print("> ");
       
       int num2 = in.nextInt();
       numList.add(num2);
