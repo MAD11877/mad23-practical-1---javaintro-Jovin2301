@@ -29,15 +29,12 @@ public class Question5
      
     Scanner in = new Scanner(System.in);
     ArrayList<Integer> numList = new ArrayList<Integer>();
-    //int maxcount = 0;
-    //int mode = numList.get(0);
-
+    
     //System.out.print("> ");
     int num = in.nextInt();
 
     for (int i = 0; i < num; i ++){
       //System.out.print("> ");
-      
       int num2 = in.nextInt();
       numList.add(num2);
     }
